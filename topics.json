@@ -1,0 +1,293 @@
+{
+    "Java": {
+        "Introduction": [
+            "JVM, JRE, JDK",
+            "Installation & Setup",
+            "Basic Java Syntax",
+            "Java Overview",
+            "Java Comments",
+            "Java Data Types"
+        ],
+        "Variables, Operators & User I/O": [
+            "Java Operators",
+            "Java Variables",
+            "User Input/Output"
+            
+        ],
+        "Conditional Statements": [
+            "switch case Statements",
+            "if Statement",
+            "if\u2026..else Statement",
+            "if\u2026..else if Statement",
+            "Nested if Statements"
+        ],
+        "Iteration Statements": [
+            "do-while Loop",
+            "break/continue Statement",
+            "Nested Loops",
+            "while Loop",
+            "for Loop"
+        ],
+        "Strings": [
+            "String Methods",
+            "String Basics",
+            "Escape Characters"
+        ],
+        "Arrays": [
+            "Multidimensional Arrays",
+            "Array Basics"
+        ],
+        "Java Methods": [
+            "Java Methods",
+            "Method Overloading",
+            "Recursive Functions"
+        ],
+        "Java OOPS": [
+            "Encapsulation",
+            "Inheritance",
+            "Object & Class",
+            "Abstraction",
+            "Polymorphism"
+        ],
+        "File Handling": [
+            "Files Read/Write",
+            "File Deletion",
+            "File Creation"
+        ],
+        "Advanced Topics": [
+            "Exception Handling",
+            "Regex"
+        ]
+    },
+    "Python": {
+        "INTRODUCTION": [
+            "What is Syntax",
+            "Python Variables",
+            "Python Overview",
+            "Python Comments",
+            "Installation & Getting Started"
+        ],
+        "Python Data Types & Operators": [
+            "Python Booleans",
+            "Data Conversion",
+            "Type Casting",
+            "Python Operators",
+            "Python Numbers",
+            "Data Types"
+        ],
+        "Python Strings": [
+            "Format Strings",
+            "Python Strings",
+            "String Methods",
+            "Escape Characters",
+            "Operation on Strings"
+        ],
+        "Python Lists": [
+            "Python Lists",
+            "List Methods",
+            "Change List Items",
+            "Remove List Items",
+            "Add List Items",
+            "List Comprehension",
+            "List Indexes"
+        ],
+        "Python Tuples": [
+            "Tuple Indexes",
+            "Unpack Tuples",
+            "Manipulating Tuples",
+            "Python Tuples"
+        ],
+        "Python Sets": [
+            "Set Methods",
+            "Add/Remove Set Items",
+            "Join Sets",
+            "Python Sets"
+        ],
+        "Python Dictionaries": [
+            "Python Dictionaries",
+            "Access Items",
+            "Add/Remove Items",
+            "Copy Dictionaries"
+        ],
+        "Conditional Statements": [
+            "elif Statement",
+            "if-else Statement",
+            "if Statement",
+            "Nested if Statement"
+        ],
+        "Python Loops": [
+            "Python while Loop",
+            "Control Statements",
+            "Python for Loop",
+            "Nested Loops"
+        ],
+        "Python Functions": [
+            "return Statement",
+            "Function Arguments",
+            "Python Functions",
+            "Python Recursion"
+        ],
+        "Python Modules": [
+            "Python Packages",
+            "Python Modules"
+        ],
+        "Python OOPS": [
+            "Python OOPS",
+            "__init__ method",
+            "self method"
+        ],
+        "Advanced Topics": [
+            "Python Iterators",
+            "Python try...except",
+            "Data & Time",
+            "JSON",
+            "Python PIP"
+        ],
+        "File Handling": [
+            "Read/Write Files",
+            "Python File Handling"
+        ]
+    },
+    "C++": {
+        "INTRODUCTION": [
+            "C++ Variables",
+            "C++ Comments",
+            "Basic Structure & Syntax",
+            "C++ Overview",
+            "Getting Started with C++"
+        ],
+        "C++ Data Types, Operators and User I O": [
+            "C++ Basic InputOutput",
+            "C++ Data Types Constants",
+            "C++ Manipulators",
+            "C++ Operators"
+        ],
+        "C++ Conditional Statements": [
+            "C++ If Else",
+            "Control Structure",
+            "C++ Switch Case"
+        ],
+        "C++ Iteration Statements": [
+            "Do While Loop",
+            "C++ Loops",
+            "For Loop",
+            "While Loop"
+        ],
+        "C++ Break/Continue": [
+            "Break Statement",
+            "Continue Statement"
+        ],
+        "C++ Arrays": [
+            "Array Operations",
+            "Array Basics"
+        ],
+        "C++Pointers": [
+            "Operations on Pointers",
+            "Pointers"
+        ],
+        "C++ Strings": [
+            "Strings"
+        ],
+        "C++ Structures, Unions & Enums": [
+            "Enums",
+            "Structures",
+            "Unions"
+        ],
+        "C++ Functions": [
+            "Function Overloading",
+            "Functions",
+            "Methods",
+            "Recursion",
+            "Functions Parameters"
+        ],
+        "C++ OOPS": [
+            "Class Attributes & Methods",
+            "C++ OOP Basics",
+            "C++ Polymorphism",
+            "Objects Memory Allocation",
+            "C++ Access Modifiers",
+            "C++ Encapsulation",
+            "Friend Functions & Classes",
+            "C++ Inheritance",
+            "C++ Constructors",
+            "C++ Classes & Objects"
+        ],
+        "C++ File Handling": [
+            "File I/O Functions",
+            "C++ File I/O"
+        ],
+        "C++ Templates & STL": [
+            "C++ Maps",
+            "C++ Function Templates",
+            "C++ Vectors",
+            "C++ Lists",
+            "C++ Class Templates",
+            "C++ Containers",
+            "C++ Templates",
+            "C++ STL"
+        ]
+    },
+    "HTML": {
+        "INTRODUCTION": [
+            "HTML Elements",
+            "HTML Attributes",
+            "HTML Installation",
+            "HTML Working",
+            "HTML Execution",
+            "HTML Page Structure",
+            "HTML Comments",
+            "HTML Id & Classes",
+            "HTML Introduction",
+            "HTML Tags"
+        ],
+        "HTML BASIC TAGS": [
+            "Skeletal Tags",
+            "Horizontal Line Tag",
+            "Heading Tags",
+            "Paragraph Tag",
+            "Line Break Tag",
+            "Anchor Tag",
+            "Image Tag",
+            "Pre Tag"
+        ],
+        "INLINE & BLOCK ELEMENTS": [
+            "HTML Block Elements",
+            "HTML Inline Elements"
+        ],
+        "HTML LISTS": [
+            "HTML Definition Lists",
+            "HTML Ordered List",
+            "HTML Unordered List",
+            "HTML Lists"
+        ],
+        "HTML TABLES": [
+            "HTML Tables",
+            "More on Tables"
+        ],
+        "HTML FORMS": [
+            "Introduction to HTML Forms",
+            "HTML Input Types",
+            "More on forms",
+            "Textarea & Select"
+        ],
+        "HEAD ELEMENTS": [
+            "HTML Meta Tags",
+            "Link & Script Tags"
+        ],
+        "HTML MEDIA": [
+            "Video & Audio Tags",
+            "iFrames in HTML",
+            "SVG in HTML"
+        ],
+        "Miscellaneous Tags": [
+            "HTML Global Attributes",
+            "HTML Semantic Tags",
+            "Obsolete HTML Tags",
+            "HTML Code Tag",
+            "Character Sets",
+            "HTML Entities",
+            "HTML Quotation Tag",
+            "HTML Canvas"
+        ]
+    }
+}
