@@ -11,7 +11,7 @@
         "Variables, Operators and User I or O": [
             "Java Operators",
             "Java Variables",
-            "User Input/Output"
+            "User Input or Output"
             
         ],
         "Conditional Statements": [
@@ -188,7 +188,7 @@
         "C++ Strings": [
             "Strings"
         ],
-        "C++ Structures, Unions & Enums": [
+        "C++ Structures, Unions and Enums": [
             "Enums",
             "Structures",
             "Unions"
@@ -214,7 +214,7 @@
         ],
         "C++ File Handling": [
             "File I O Functions",
-            "C++ File I/O"
+            "C++ File I or O"
         ],
         "C++ Templates and STL": [
             "C++ Maps",
@@ -236,7 +236,7 @@
             "HTML Execution",
             "HTML Page Structure",
             "HTML Comments",
-            "HTML Id & Classes",
+            "HTML Id and Classes",
             "HTML Introduction",
             "HTML Tags"
         ],
@@ -272,10 +272,10 @@
         ],
         "HEAD ELEMENTS": [
             "HTML Meta Tags",
-            "Link & Script Tags"
+            "Link and Script Tags"
         ],
         "HTML MEDIA": [
-            "Video & Audio Tags",
+            "Video and Audio Tags",
             "iFrames in HTML",
             "SVG in HTML"
         ],
