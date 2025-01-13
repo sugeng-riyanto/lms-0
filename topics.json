@@ -2,13 +2,13 @@
     "Java": {
         "Introduction": [
             "JVM, JRE, JDK",
-            "Installation & Setup",
+            "Installation and Setup",
             "Basic Java Syntax",
             "Java Overview",
             "Java Comments",
             "Java Data Types"
         ],
-        "Variables, Operators & User I/O": [
+        "Variables, Operators and User I or O": [
             "Java Operators",
             "Java Variables",
             "User Input/Output"
@@ -23,7 +23,7 @@
         ],
         "Iteration Statements": [
             "do-while Loop",
-            "break/continue Statement",
+            "break or continue Statement",
             "Nested Loops",
             "while Loop",
             "for Loop"
@@ -45,12 +45,12 @@
         "Java OOPS": [
             "Encapsulation",
             "Inheritance",
-            "Object & Class",
+            "Object and Class",
             "Abstraction",
             "Polymorphism"
         ],
         "File Handling": [
-            "Files Read/Write",
+            "Files Read or Write",
             "File Deletion",
             "File Creation"
         ],
@@ -65,9 +65,9 @@
             "Python Variables",
             "Python Overview",
             "Python Comments",
-            "Installation & Getting Started"
+            "Installation and Getting Started"
         ],
-        "Python Data Types & Operators": [
+        "Python Data Types and Operators": [
             "Python Booleans",
             "Data Conversion",
             "Type Casting",
@@ -99,7 +99,7 @@
         ],
         "Python Sets": [
             "Set Methods",
-            "Add/Remove Set Items",
+            "Add or Remove Set Items",
             "Join Sets",
             "Python Sets"
         ],
@@ -139,12 +139,12 @@
         "Advanced Topics": [
             "Python Iterators",
             "Python try...except",
-            "Data & Time",
+            "Data and Time",
             "JSON",
             "Python PIP"
         ],
         "File Handling": [
-            "Read/Write Files",
+            "Read or Write Files",
             "Python File Handling"
         ]
     },
@@ -152,7 +152,7 @@
         "INTRODUCTION": [
             "C++ Variables",
             "C++ Comments",
-            "Basic Structure & Syntax",
+            "Basic Structure and Syntax",
             "C++ Overview",
             "Getting Started with C++"
         ],
@@ -173,7 +173,7 @@
             "For Loop",
             "While Loop"
         ],
-        "C++ Break/Continue": [
+        "C++ Break or Continue": [
             "Break Statement",
             "Continue Statement"
         ],
@@ -207,16 +207,16 @@
             "Objects Memory Allocation",
             "C++ Access Modifiers",
             "C++ Encapsulation",
-            "Friend Functions & Classes",
+            "Friend Functions and Classes",
             "C++ Inheritance",
             "C++ Constructors",
-            "C++ Classes & Objects"
+            "C++ Classes and Objects"
         ],
         "C++ File Handling": [
-            "File I/O Functions",
+            "File I O Functions",
             "C++ File I/O"
         ],
-        "C++ Templates & STL": [
+        "C++ Templates and STL": [
             "C++ Maps",
             "C++ Function Templates",
             "C++ Vectors",
@@ -250,7 +250,7 @@
             "Image Tag",
             "Pre Tag"
         ],
-        "INLINE & BLOCK ELEMENTS": [
+        "INLINE and BLOCK ELEMENTS": [
             "HTML Block Elements",
             "HTML Inline Elements"
         ],
